@@ -1,9 +1,9 @@
 import React from "react";
 import Map from "./Map";
-import MapWithAnimation from "./MapWithAnimation";
+import MapWithBusinesses from "./MapWithBusinesses";
 
 const App: React.FC = () => {
-  return <MapWithAnimation />;
+  return <MapWithBusinesses />;
 };
 
 export default App;
